@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Eslam Sabry Ahmed"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : #"Location"
+  bio              : Egyptian PhD student in Japan #"Your biography for the left-hand sidebar"
+  location         : Nagoya, Japan#"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : https://scholar.google.com/citations?user=oXjq3ZkAAAAJ&hl=en #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
